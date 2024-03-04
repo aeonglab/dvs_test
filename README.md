@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cloud-skills-sample-spring-boot-app
 cloud-skills-sample-spring-boot-app with Java/Spring Boot (Gradle)
 
@@ -12,3 +13,6 @@ cloud-skills-sample-spring-boot-app with Java/Spring Boot (Gradle)
 
 #### Port : 8080
 
+=======
+# dvs_test
+>>>>>>> b223ef577a956f174732a6cb207d69f40e180fab
